@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\AndroidStudio\\MaterialMe-Starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rUS\\values-en-rUS.xml",
+            "map": [
+                {
+                    "source": "E:\\AndroidStudio\\MaterialMe-Starter\\app\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "from": {
+                        "startLines": "36,22,8,2,6,4,5,3",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "1910,1302,901,57,283,161,212,108",
+                        "endLines": "48,34,20,2,6,4,5,3",
+                        "endColumns": "12,19,19,49,614,49,69,51",
+                        "endOffsets": "2442,1902,1294,102,893,206,277,155"
+                    },
+                    "to": {
+                        "startLines": "2,15,28,41,42,43,44,45",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,580,1173,1559,1609,2224,2274,2344",
+                        "endLines": "14,27,40,41,42,43,44,45",
+                        "endColumns": "12,19,19,49,614,49,69,51",
+                        "endOffsets": "575,1168,1554,1604,2219,2269,2339,2391"
+                    }
+                }
+            ]
+        }
+    ]
+}
